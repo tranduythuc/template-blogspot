@@ -1,0 +1,9 @@
+  Operating System: Linux 2.6.32-220.17.1.el6_lustre.x86_64 #1 SMP Fri Jun 8 12:41:54 PDT 2012 x86_64
+  Processor ID:     x86 Family 6 Model 45 Stepping 7, GenuineIntel
+  Host Name:        cluster.hpc.org
+FATAL ERROR in native method: Nativewindow X11 IOError: Display 0x2ae260074ec0 (cluster.hpc.org:20.0): Resource temporarily unavailable
+FATAL ERROR in native method: Nativewindow X11 IOError: Display 0x2ae261035d90 (cluster.hpc.org:20.0): Resource temporarily unavailable
+	at sun.awt.X11.XlibWrapper.XEventsQueued(Native Method)
+	at sun.awt.X11.XToolkit.run(Unknown Source)
+	at sun.awt.X11.XToolkit.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
